@@ -8,4 +8,4 @@ The aim is to find how to improve the possibility to get a "data analysis intern
 
 The final report can be seen [here](http://www.jianshu.com/p/090c4eb27881).
 
-The complete code can be seen [here](https://nbviewer.jupyter.org/github/clarkyu2016/Data-Analysis-Projects/blob/master/Shixisheng/main.ipynb).
+The complete code can be seen [here](https://nbviewer.jupyter.org/github/clarkyu2016/Data-Analysis-Projects/blob/master/04.Shixisheng/main.ipynb).
